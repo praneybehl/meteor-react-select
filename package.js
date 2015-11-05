@@ -1,6 +1,6 @@
 Package.describe({
   name: 'praneybehl:react-select',
-  version: '0.6.11',
+  version: '0.6.11_1',
   summary: 'React-Select packaged for Meteor',
   git: 'https://github.com/praneybehl/meteor-react-select',
   documentation: 'README.md'
