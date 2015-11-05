@@ -1,0 +1,1 @@
+Select = require('react-select');
