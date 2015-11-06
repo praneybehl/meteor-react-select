@@ -6,6 +6,7 @@ Package.describe({
   documentation: 'README.md'
 });
 
+
 Package.onUse(function(api) {
   api.versionsFrom('1.2.1');
   api.use('ecmascript');
@@ -18,6 +19,6 @@ Package.onUse(function(api) {
 });
 
 Npm.depends({
-  "react-select": "0.6.11",
+  "react-select": "0.9.1",
   "exposify": "0.5.0"
 });
